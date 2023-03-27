@@ -10,5 +10,5 @@ Commands:
 1. clone: bring a repository that is hosted somewhere like github into a folder on your local machine.
 2. add: track your file and changes in git.
 3. commit: save your files in git.
-4. push: upload git commits to a remote repo like github.
+4. push: upload git commits to a remote repo like Github.
 5. pull: download changes from remote repo to your local machine the opposite of push.
